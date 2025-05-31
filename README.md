@@ -19,8 +19,8 @@
 </table>
 
 ### 🌱 Currently Learning: 
--🌐 HTML5, CSS3, JavaScript
--🎨 Tailwind CSS
--⚛ React.js (basics)
+-🌐 HTML5, CSS3, JavaScript <br>
+-🎨 Tailwind CSS <br>
+-⚛ React.js (basics) <br>
 -🔧 Git, GitHub, VS Code
 
