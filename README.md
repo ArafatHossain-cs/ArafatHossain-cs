@@ -1,8 +1,20 @@
 <table>
-  <td></td>
+  <tr>
+    <td><img src=""></td>
+    <td>
+      <p>Hello 👋 I am <strong>Arafat Hossain.</strong></p>
+      <p>I am a <em>passionate</em> Software Engineer
+        with almost 5 years of working experience, specializing
+        in full stack development using .NET technologies.</p>
+      <a href="mailto:rubelhosen.cs@gmail.com" title="Email"><img
+          src="https://img.icons8.com/pastel-glyph/30/000000/email--v1.png" /></a>
+      <a href="https://rhosen.github.io/" title="Homepage"><img
+          src="https://img.icons8.com/ios-glyphs/30/000000/portfolio.png" /></a>
+      <a href="https://www.linkedin.com/in/rhosen/" title="LinkedIn"><img
+          src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" /></a>
+    </td>
+  </tr>
 </table>
-![Icon](https://github.com/ArafatHossain-cs/ArafatHossain-cs/blob/main/programmer.jpg)
 
-<h3>Hi, I am Arafat Hossain.</h3>
-
-
+## 𝗦𝘁𝗮𝘁𝘀
+![Rubel's GitHub stats](https://github-readme-stats.vercel.app/api?username=rhosen&theme=slateorange&show_icons=true)
