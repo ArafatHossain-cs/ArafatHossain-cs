@@ -10,7 +10,7 @@
           src="https://img.icons8.com/pastel-glyph/30/000000/email--v1.png" /></a>
 <!--       <a href="https://rhosen.github.io/" title="Homepage"><img
           src="https://img.icons8.com/ios-glyphs/30/000000/portfolio.png" /></a> -->
-      <a href="https://www.linkedin.com/in/rhosen/" title="LinkedIn"><img
+      <a href="https://www.linkedin.com/in/arafat-hossain-53a8b0248" title="LinkedIn"><img
           src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" /></a>
       <a href="(https://x.com/ArafatHoss3885?t=ccLWs7eKjKHIRLAukNfyXg&s=09)" title="Twitter"><img
           src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png" /></a>
