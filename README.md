@@ -12,7 +12,7 @@
           src="https://img.icons8.com/ios-glyphs/30/000000/portfolio.png" /></a> -->
       <a href="https://www.linkedin.com/in/arafat-hossain-53a8b0248" title="LinkedIn"><img
           src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" /></a>
-      <a href="https://x.com/ArafatHoss3885" title="Twitter"><img
+      <a href="https://x.com/arafath_sain" title="Twitter"><img
           src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png" /></a>
     </td>
   </tr>
