@@ -24,9 +24,6 @@
 -⚛ React.js (basics) <br>
 -🔧 Git, GitHub, VS Code
 
-### Language and Tools:
-
-
 
 ### Stats 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArafatHossain-cs&show_icons=true&theme=tokyonight)
