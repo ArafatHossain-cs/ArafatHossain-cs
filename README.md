@@ -7,13 +7,13 @@
             currently learning <strong>HTML, CSS, JavaScript,</strong>
                to build clean, responsive websites and web apps.</p>
       <a href="mailto:arafathossain.cs@gmail.com" title="Email"><img
-          src="https://img.icons8.com/pastel-glyph/30/000000/email--v1.png" /></a>
+          src="https://img.icons8.com/color/30/000000/email--v1.png" /></a>
 <!--       <a href=" title="Homepage"><img
           src="https://img.icons8.com/ios-glyphs/30/000000/portfolio.png" /></a> -->
       <a href="https://www.linkedin.com/in/arafat-hossain-53a8b0248" title="LinkedIn"><img
-          src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" /></a>
+          src="https://img.icons8.com/color/30/000000/linkedin.png" /></a>
       <a href="https://x.com/arafath_sain" title="Twitter"><img
-          src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png" /></a>
+          src="https://img.icons8.com/color/30/000000/twitter.png" /></a>
     </td>
   </tr>
 </table>
