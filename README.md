@@ -26,9 +26,10 @@
 
 
 ### Stats 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArafatHossain-cs&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arafathossain01&show_icons=true&theme=tokyonight)
 
-  <a href="https://github.com/ArafatHossain-cs"><img alt="Arafat's Top Languages" 
-  src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=ArafatHossain-cs&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
+  <a href="https://github.com/arafathossain01"><img alt="Arafat's Top Languages" 
+  src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=arafathossain01
+    &langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"
   width="46%"/></a>
   <br/>
