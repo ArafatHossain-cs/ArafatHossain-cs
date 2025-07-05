@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td><img src="https://github.com/ArafatHossain-cs/ArafatHossain-cs/blob/main/programmer.jpg"></td>
+    <td><img src="https://github.com/ArafatHossain-cs/ArafatHossain-cs/blob/main/coding.jpg"></td>
     <td>
       <p>Hello 👋 I am <strong>Arafat Hossain.</strong></p>
       <p>I am a <em>passionate</em> <strong>web development enthusiast</strong>
