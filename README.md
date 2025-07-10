@@ -22,7 +22,7 @@
 -🌐 HTML5, CSS3, JavaScript <br>
 -🎨 Tailwind CSS <br>
 -⚛ React.js (basics) <br>
--🔧 Git, GitHub, VS Code
+-🔧 Git, GitHub, Netlify, VS Code
 
 
 ### Stats 
