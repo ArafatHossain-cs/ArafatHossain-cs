@@ -20,7 +20,7 @@
 
 ### 🌱 Currently Learning: 
 -🌐 HTML5, CSS3, JavaScript <br>
--🎨 Tailwind CSS <br>
+-🎨 Tailwind CSS, SASS <br>
 -⚛ React.js (basics) <br>
 -🔧 Git, GitHub, Netlify, VS Code
 
