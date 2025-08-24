@@ -24,6 +24,12 @@
 -⚛ React.js (basics) <br>
 -🔧 Git, GitHub, Netlify, VS Code
 
+---
+## 🏆 Achievements & Experiences 
+
+✨ **Volunteer** – CSE Curnival 2024 GUB
+
+---
 
 ### Stats 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arafathossain01&show_icons=true&theme=tokyonight)
