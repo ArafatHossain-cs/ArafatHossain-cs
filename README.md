@@ -18,11 +18,13 @@
   </tr>
 </table>
 
-### 🌱 Currently Learning: 
--🌐 HTML5, CSS3, JavaScript <br>
--🎨 Tailwind CSS, <br>
--⚛ React.js (basics) <br>
--🔧 Git, GitHub, Netlify, VS Code
+
+### 🛠️ Skills & Technologies
+<ul>
+  <li><b>Languages: </b>C++, JAVA, JavaScript, Bash </li>
+  <li><b>Frontend: </b>Tailwind CSS, React.js</li>
+  <li><b>Tools: </b>Git, GitHub, VS Code</li>
+</ul>
 
 ---
 ## 🏆 Achievements & Experiences 
