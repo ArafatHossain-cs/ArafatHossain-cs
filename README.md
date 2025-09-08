@@ -21,9 +21,9 @@
 
 ### 🛠️ Skills & Technologies
 <ul>
-  <li><b>Languages: </b>C++, JAVA, JavaScript, Bash </li>
+  <li><b>Languages: </b>C++, JAVA, JavaScript </li>
   <li><b>Frontend: </b>Tailwind CSS, React.js</li>
-  <li><b>Tools: </b>Git, GitHub, VS Code</li>
+  <li><b>Tools: </b>Git, GitHub, VS Code, Bash</li>
 </ul>
 
 ---
