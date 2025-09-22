@@ -3,9 +3,9 @@
     <td><img src="https://github.com/ArafatHossain-cs/ArafatHossain-cs/blob/main/coding.jpg"></td>
     <td>
       <p>Hello 👋 I am <strong>Arafat Hossain.</strong></p>
-      <p>I am a <em>passionate</em> <strong>web development enthusiast</strong>
-            currently learning <strong>HTML, CSS, JavaScript,</strong>
-               to build clean, responsive websites and web apps.</p>
+      <p>I am a <em>passionate</em> web development enthusiast
+            currently learning <strong> MERN stack development (MongoDB, Express.js, React.js, Node.js) </strong> and I use this space to share my journey, projects, and learnings. 🚀 <br>
+          I am aslo </p>
       <a href="mailto:arafathossain.cs@gmail.com" title="Email"><img
           src="https://img.icons8.com/color/30/000000/email--v1.png" /></a>
 <!--       <a href=" title="Homepage"><img
@@ -18,12 +18,17 @@
   </tr>
 </table>
 
-
+## 🚀 About Me
+- 🌱 Currently learning **MERN Stack Development**  
+- 🛠 Exploring **Web Development, Databases, and Backend Systems**  
+- 📚 Love documenting my learning process and building real-world projects  
+- 🎯 Goal: To become a **Full-Stack Developer**
+  
 ### 🛠️ Skills & Technologies
 <ul>
-  <li><b>Languages: </b>C++, JAVA, JavaScript </li>
-  <li><b>Frontend: </b>Tailwind CSS, React.js</li>
-  <li><b>Tools: </b>Git, GitHub, VS Code, Bash</li>
+    <li><b>Languages: </b>HTML5, CSS3, JavaScript, C++, JAVA</li>
+    <li><b>Frontend: </b>Bootstrap, Tailwind CSS, React.js</li>
+    <li><b>Tools: </b>Git, GitHub, VS Code, Bash</li>
 </ul>
 
 ---
